@@ -1,6 +1,6 @@
 # Python
 
-## 🛠️ **Fase 1: Fundamentos de Python (1 semana)**
+## 🛠️ **Fase 1: Fundamentos de Python**
 
 ### Objetivo: Manejar la sintaxis básica de Python.
 
