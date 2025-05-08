@@ -77,7 +77,8 @@ conjunto_mixto = {1, 2.5, "tres", True}
 conjunto.add(4) # No se agrega porque ya existe
 
 # Diccionarios --------------------------------------------------------------------------------------------------------
-# Son colecciones de pares clave-valor.
+# Son colecciones de pares clave-valor. Es como un objeto JSON.
+# Se utilizan llaves {} para definir un diccionario y los pares clave-valor se separan por comas.
 diccionario = {
     "nombre": "Juan",
     "edad": 25,
